@@ -29,19 +29,17 @@ java --module-path "%YOUR JAVAFX LIB%" --add-modules javafx.controls,javafx.fxml
 
 *When clicked, data entered is added to the panel.*
 
-![42ec43d4-e98e-4e3c-81e3-0bf85976a6fb](https://user-images.githubusercontent.com/73741033/111915756-11a08680-8aa2-11eb-9da4-f87ad66e34bb.jpg)
+![72e21ffa-cab1-45f2-8170-328b19a82ba6](https://user-images.githubusercontent.com/73741033/111915887-9b505400-8aa2-11eb-81a9-d368300ca2f9.jpg)
 
 ***The Clear Button*** 
 
 *When clicked, data entered is deleted from the panel.*
 
-
-
 ***The Save Button*** 
 
 *When clicked, data entered is saved to a text file which you provide.*
 
-
+![42ec43d4-e98e-4e3c-81e3-0bf85976a6fb](https://user-images.githubusercontent.com/73741033/111915894-a6a37f80-8aa2-11eb-901d-9790b7908cd8.jpg)
 
 ***The Open Button***
 
